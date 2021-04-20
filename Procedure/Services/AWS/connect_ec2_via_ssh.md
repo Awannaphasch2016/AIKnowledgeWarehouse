@@ -11,3 +11,4 @@
     3. Open a Jupyter Notebook 
         * `ssh -i <key-pair-file> -L <local-port>:localhost:<ec2-port> <ec2-username>@<ec2-public-dns>`
 
+

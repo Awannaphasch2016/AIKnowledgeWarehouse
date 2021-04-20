@@ -63,4 +63,3 @@
 * open list of picture using display command.
     * `ls | grep "._rate_of_change.png" | xargs -n1 display` 
 
-
